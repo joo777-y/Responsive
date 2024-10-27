@@ -384,7 +384,7 @@ body{
 
     .oo .pp{
         margin-left: -430px;
-        margin-top: -50px;
+        /* margin-top: -50px; */
     }
 
     .pp{
@@ -393,6 +393,10 @@ body{
 
     .ll{
         width: 90px;
+    }
+
+    .oo .div1{
+        margin-left: -430px;
     }
 
     .thankparent{
