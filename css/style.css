@@ -365,10 +365,10 @@ body{
 }
 
 
-@media only screen and (max-width: 600px){
+@media(max-width: 600px){
 
     body{
-        margin: auto;
+        /* margin-left: 70px; */
     }
     .news-parent img{
        width: 100%;
@@ -432,6 +432,37 @@ body{
 
     .oo{
         padding-right: 20px;
+    }
+
+    /* .additional-sec{
+        position: fixed;
+        left: 20px;
+        width: 40px; */
+    
+
+    .aa{
+        margin-left: 50px;
+    }
+
+    .xx , .zz{
+        margin-left: 25px;
+    }
+
+    .cc{
+        margin-left: 23px;
+    }
+
+    .dd{
+        margin-left: 16px;
+    }
+
+    .nn{
+        margin-left: 12px;
+    }
+
+    .hii{
+        margin-left: 12px;
+        margin-top: 20px;
     }
 
 }
