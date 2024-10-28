@@ -434,10 +434,11 @@ body{
         padding-right: 20px;
     }
 
-    /* .additional-sec{
+    .additional-sec{
         position: fixed;
         left: 20px;
-        width: 40px; */
+        width: 40px;
+    }
     
 
     .aa{
